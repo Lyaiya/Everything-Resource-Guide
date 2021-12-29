@@ -1,10 +1,10 @@
 # L4D2 Resource Guide
 
-[![docsify](https://img.shields.io/static/v1?label=docsify&message=%E5%9C%A8%E7%BA%BF%E6%B5%8F%E8%A7%88&color=brightgreen&style=flat-square)](https://lyaiya.github.io/L4D2-Resource-Guide/)
+[![docsify](https://img.shields.io/static/v1?label=docsify&message=%E5%9C%A8%E7%BA%BF%E6%B5%8F%E8%A7%88&color=brightgreen&style=flat-square)](https://lyaiya.github.io/Everything-Resource-Guide/)
 
 ## 介绍
 
-一些自己收录的 L4D2 相关资源。
+一些自己收录的各类游戏的相关资源（比如模组）。
 
 ---
 
@@ -12,7 +12,7 @@
 
 有哪里不对？想加新东西？
 
-可以提交 [Issue](https://github.com/Lyaiya/L4D2-Resource-Guide/issues) / [PR](https://github.com/Lyaiya/L4D2-Resource-Guide/pulls)。
+可以提交 [Issue](https://github.com/Lyaiya/Everything-Resource-Guide/issues) / [PR](https://github.com/Lyaiya/Everything-Resource-Guide/pulls)。
 
 ---
 
