@@ -43,6 +43,7 @@
 
 ### Witch 女巫
 
-| 原名丨译名                | 备注 | 相关地址                                                                     |
-| ------------------------- | ---- | ---------------------------------------------------------------------------- |
-| Sakura Miku Replace Witch |      | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=322584371) |
+| 原名丨译名                                                                        | 备注 | 相关地址                                                                      |
+| --------------------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------- |
+| Sakura Miku Replace Witch                                                         |      | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=322584371)  |
+| NEKOPARA Chocolat&Vanilla Replaces witch and witch bride 巧克力和香子兰 替换 女巫 |      | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2609065588) |
