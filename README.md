@@ -1,4 +1,4 @@
-# L4D2 Resource Guide
+# Everything Resource Guide
 
 [![docsify](https://img.shields.io/static/v1?label=docsify&message=%E5%9C%A8%E7%BA%BF%E6%B5%8F%E8%A7%88&color=brightgreen&style=flat-square)](https://lyaiya.github.io/Everything-Resource-Guide/)
 
