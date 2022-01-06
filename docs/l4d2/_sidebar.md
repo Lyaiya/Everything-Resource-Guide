@@ -1,5 +1,5 @@
 - [L4D2 主页](l4d2/)
-- [模组](l4d2/mod/)
+- 模组
   - [地图](l4d2/mod/map.md)
   - 武器
     - [主武器](l4d2/mod/weapon/primary.md)
