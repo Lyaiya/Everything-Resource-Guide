@@ -1,4 +1,4 @@
-- [Slay the Spire 主页](stardewvalley/)
+- [星露谷物语主页](stardewvalley/)
 - 模组
   - [修改工具](stardewvalley/mod/modding_tool.md)
   - [信息显示](stardewvalley/mod/information.md)
