@@ -1,25 +1,22 @@
 # 体验提升
 
-[来源](https://gist.github.com/Pathoschild/b608892d3e60bd25d0eea71ca7584649)
+## 实物
 
-## 待整理
+| 原名                  | 译名         | 备注 | 相关地址                                                  |
+| --------------------- | ------------ | ---- | --------------------------------------------------------- |
+| AutoGate              | 自动门       |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/820) |
+| Better Sprinklers Mod | 更好的洒水器 |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/41)  |
 
-| 原名                                    | 译名     | 备注 | 相关地址                                                    |
-| --------------------------------------- | -------- | ---- | ----------------------------------------------------------- |
-| AutoGate                                |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/820)   |
-| Better Sprinklers Mod                   |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/41)    |
-| Billboard Anywhere                      |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/492)   |
-| Chests Anywhere                         |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/518)   |
-| Data Layers                             |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/1691)  |
-| Fast Animations                         |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/1089)  |
-| Horse Flute Anywhere                    |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/7500)  |
-| Lookup Anything                         | 百科全书 |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/541)   |
-| Loved Labels Redux                      |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/8880)  |
-| NPC Map Locations                       |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/239)   |
-| Pony Weight Loss Program                |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/1232)  |
-| Rented Tools # Unofficial               |          |      | [GitHub](https://github.com/AleronWen/StardewMods/releases) |
-| Self Service # Unofficial               |          |      | [GitHub](https://github.com/AleronWen/StardewMods/releases) |
-| Skip Intro                              |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/533)   |
-| TillableGround                          |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/2175)  |
-| Toddlers like parents - Content Patcher |          |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/405)   |
-| Automate                                | 自动化   |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/1063)  |
+## 机制
+
+| 原名                      | 译名     | 备注               | 相关地址                                                                                                                |
+| ------------------------- | -------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| Rented Tools # Unofficial | 租借工具 | 升级工具时租借工具 | [GitHub](https://github.com/AleronWen/StardewMods/releases)丨[NEXUS](https://www.nexusmods.com/stardewvalley/mods/1307) |
+| Self Service # Unofficial | 自助服务 | 柜台无人也可购物   | [GitHub](https://github.com/AleronWen/StardewMods/releases)丨[NEXUS](https://www.nexusmods.com/stardewvalley/mods/1304) |
+| TillableGround            | 随意耕地 |                    | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/2175)                                                              |
+
+## 其他
+
+| 原名       | 译名     | 备注 | 相关地址                                                  |
+| ---------- | -------- | ---- | --------------------------------------------------------- |
+| Skip Intro | 跳过介绍 |      | [NEXUS](https://www.nexusmods.com/stardewvalley/mods/533) |
