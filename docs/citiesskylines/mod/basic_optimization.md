@@ -13,7 +13,6 @@
 | >? Loading Screen Mod temporary fix for Airports DLC |         | 临时修复版本      | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2731207699) |
 | Patch Loader Mod                                     |         |                   | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2041457644) |
 | > FPS Booster                                        | FPS优化 |                   | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2105755179) |
-| Control It!                                          |         | Less Steam 替代品 | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2723628116) |
 | Instant Return To Desktop                            |         |                   | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2037888659) |
 
 ## 道路
@@ -44,16 +43,12 @@
 
 | 原名                     | 译名 | 备注 | 相关地址                                                                      |
 | ------------------------ | ---- | ---- | ----------------------------------------------------------------------------- |
-| More Advanced Toolbar    |      |      | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=1597852915) |
 | Improved Content Manager |      |      | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=814498849)  |
-
 
 ## 其他
 
 | 原名                    | 译名   | 备注                 | 相关地址                                                                      |
 | ----------------------- | ------ | -------------------- | ----------------------------------------------------------------------------- |
-| Achieve It!             |        | 启用模组也能完成成就 | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=1567569285) |
-| > Achieve It! 中文版    |        |                      | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2717531213) |
 | ScaleUI                 | UI缩放 |                      | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2040218778) |
 | Loading Order Mod Beta  |        |                      | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2448824112) |
 | Loading Order Mod ALPHA |        |                      | [创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2620852727) |
