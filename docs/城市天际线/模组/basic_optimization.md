@@ -1,8 +1,10 @@
 # 基础优化
 
-[合集0](https://steamcommunity.com/sharedfiles/filedetails/?id=2697753927)
-[合集1](https://steamcommunity.com/sharedfiles/filedetails/?id=2569518789)
-[合集2](https://steamcommunity.com/sharedfiles/filedetails/?id=2717551308)
+参考：
+
+- [合集0](https://steamcommunity.com/sharedfiles/filedetails/?id=2697753927)
+- [合集1](https://steamcommunity.com/sharedfiles/filedetails/?id=2569518789)
+- [合集2](https://steamcommunity.com/sharedfiles/filedetails/?id=2717551308)
 
 ## 综合
 

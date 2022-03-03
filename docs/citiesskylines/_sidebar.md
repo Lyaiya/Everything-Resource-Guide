@@ -1,6 +1,0 @@
-- [城市天际线主页](citiesskylines/)
-- 模组
-  - [基础优化](citiesskylines/mod/basic_optimization.md)
-  - [机制优化](citiesskylines/mod/mechanism_optimization.md)
-  - [画质提升](citiesskylines/mod/quality_improvement.md)
-  - [景观美化](citiesskylines/mod/landscaping.md)
