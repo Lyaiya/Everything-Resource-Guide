@@ -33,6 +33,10 @@ markdown_extensions:
 plugins:
   - search
   - awesome-pages
+  - git-revision-date-localized:
+      enable_creation_date: true
+      timezone: Asia/Shanghai
+      locale: zh
 
 repo_url: https://github.com/Lyaiya/Everything-Resource-Guide
 repo_name: Lyaiya/Everything-Resource-Guide
