@@ -2,7 +2,7 @@
 
 来源：
 
-- 创意工坊合集：[Useful UI MOD Collection（实用界面MOD合集）](https://steamcommunity.com/workshop/filedetails/?id=2268223724)
+- 创意工坊合集：[Useful UI MOD Collection（实用界面MOD合集）](https://steamcommunity.com/sharedfiles/filedetails/?id=2268223724)
 - B站专栏：[【文明6】最全最实用的界面类MOD汇总（必备类）](https://www.bilibili.com/read/cv12422393)
 
 ## 必备
