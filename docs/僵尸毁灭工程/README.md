@@ -1,7 +1,7 @@
 # 概述
 
-!!! warning "状况"
-    未完工，完成度尚可，可供浏览。
+!!! success "状况"
+    已完工。
 
 [创意工坊主页](https://steamcommunity.com/app/108600/workshop/)
 
