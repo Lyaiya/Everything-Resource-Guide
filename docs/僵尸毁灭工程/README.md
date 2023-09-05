@@ -7,6 +7,8 @@
 
 [攻略汇总](https://tieba.baidu.com/p/7904030495)
 
+[中文百科](https://pz.gamekee.com/)
+
 ## 模组制作
 
 - [Konijima/PZ-Libraries](https://github.com/Konijima/PZ-Libraries)
